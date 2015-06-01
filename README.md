@@ -1,0 +1,2 @@
+# IPCamera_linux
+Smartfarm项目的海康威视ipcamera控制程序linux版本，将来用于伽利略开发板
